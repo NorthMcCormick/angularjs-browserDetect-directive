@@ -1,0 +1,1 @@
+#AngularJS 1.x Browser Detect Directive
